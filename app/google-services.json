@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136119348775",
+    "project_id": "agri-biz-app",
+    "storage_bucket": "agri-biz-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136119348775:android:977f72ea721f1636d66802",
+        "android_client_info": {
+          "package_name": "com.example.agribizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136119348775-po0933k3iiou88npvnblgbm2pu9phru0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAoNGUCKE4XseqYztRxJogEVfFH4qANbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136119348775-po0933k3iiou88npvnblgbm2pu9phru0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
